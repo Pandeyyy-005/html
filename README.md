@@ -1,7 +1,7 @@
 # html
 form
 
-# Tools
+# UI
 - HTML
 - CSS
 - Bootstrap(BS5)
@@ -13,4 +13,4 @@ form
 ![Login pg](image-1.png)
 
 # Dashboard
-![Dashboard pg](image-2.png)
+![Dashboard pg](image-2.png) 
